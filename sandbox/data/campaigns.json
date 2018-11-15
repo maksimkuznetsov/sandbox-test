@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Nike Flagman Shoes SP18",
+      "dateStart": "2018-03-01 00:00:00.596+03",
+      "dateEnd": "2018-05-31 23:59:59.344+03",
+      "input": "Source",
+      "output": "Destination",
+      "totalVideos": 1476,
+      "totalPrice": 2789.64,
+      "videoPrice": 1.89,
+      "avgVideoLength": 11200,
+      "screens": [
+        {
+          "id": 2,
+          "name": "Instore screens"
+        }
+      ]
+    }
+]

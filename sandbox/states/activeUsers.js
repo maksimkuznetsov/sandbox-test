@@ -1,0 +1,1 @@
+state.activeUsers = state.activeUsers || [];

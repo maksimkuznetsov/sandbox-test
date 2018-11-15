@@ -1,0 +1,194 @@
+[
+        {
+      "id": 1,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_01-03.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_01-03.jpg",
+      "name": "Nike flagman: NSW Screen#1",
+      "createdDate": "2018-05-31 21:55:16.434+03"
+    },
+    {
+      "id": 2,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_09.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_09.jpg",
+      "name": "Nike flagman: NSW Screen#3",
+      "createdDate": "2018-05-31 21:15:23.434+03"
+    },
+    {
+      "id":3,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_03.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_03.jpg",
+      "name": "Nike flagman: NSW Screen#3",
+      "createdDate": "2018-05-31 20:30:38.434+03"
+    },
+    {
+      "id": 4,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_04.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_04.jpg",
+      "name": "Nike flagman: NSW Screen#2",
+      "createdDate": "2018-05-31 20:15:17.434+03"
+    },
+    {
+      "id": 5,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_11.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_11.jpg",
+      "name": "Nike flagman: FTB Screen#4",
+      "createdDate": "2018-05-31 19:41:56.434+03"
+    },
+    {
+      "id": 6,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_06.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_06.jpg",
+      "name": "Nike flagman: NSW Screen#3",
+      "createdDate": "2018-05-31 19:24:44.434+03"
+    },
+    {
+      "id": 7,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_07.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_07.jpg",
+      "name": "Nike flagman: NSW Screen#3",
+      "createdDate": "2018-05-31 18:54:25.434+03"
+    },
+    {
+      "id": 8,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_08.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_08.jpg",
+      "name": "Nike flagman: FTB Screen#2",
+      "createdDate": "2018-05-31 18:47:22.434+03"
+    },
+    {
+      "id": 9,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_02.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_02.jpg",
+      "name": "Nike flagman: NSW Screen#3",
+      "createdDate": "2018-05-31 18:02:43.434+03"
+    },
+    {
+      "id": 10,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_10.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_10.jpg",
+      "name": "Nike flagman: BSK Screen#2",
+      "createdDate": "2018-05-31 17:36:58.434+03"
+    },
+    {
+      "id": 11,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_05.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_05.jpg",
+      "name": "Nike flagman: NSW Screen#2",
+      "createdDate": "2018-05-31 17:28:41.434+03"
+    },
+    {
+      "id": 12,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_12.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_12.jpg",
+      "name": "Nike flagman: NSW Screen#1",
+      "createdDate": "2018-05-31 17:05:12.434+03"
+    },
+    {
+      "id": 13,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_13.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_13.jpg",
+      "name": "Nike flagman: NSW Screen#3",
+      "createdDate": "2018-05-31 16:21:17.434+03"
+    },
+    {
+      "id": 14,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_14.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_14.jpg",
+      "name": "Nike flagman: NSW Screen#1",
+      "createdDate": "2018-05-31 15:48:48.434+03"
+    },
+    {
+      "id": 15,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_15.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_15.jpg",
+      "name": "Nike flagman: NSW Screen#2",
+      "createdDate": "2018-05-31 15:32:14.434+03"
+    },
+    {
+      "id": 16,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_16.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_16.jpg",
+      "name": "Nike flagman: NSW Screen#4",
+      "createdDate": "2018-05-31 15:01:08.434+03"
+    },
+    {
+      "id": 17,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_17.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_17.jpg",
+      "name": "Nike flagman: NTC Screen#1",
+      "createdDate": "2018-05-31 14:50:36.434+03"
+    },
+    {
+      "id": 18,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_18.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_18.jpg",
+      "name": "Nike flagman: NSW Screen#2",
+      "createdDate": "2018-05-31 14:42:16.434+03"
+    },
+    {
+      "id":19,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_19.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_19.jpg",
+      "name": "Nike flagman: NSW Screen#3",
+      "createdDate": "2018-05-31 14:11:53.434+03"
+    },
+    {
+      "id": 20,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_20.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_20.jpg",
+      "name": "Nike flagman: NSW Screen#4",
+      "createdDate": "2018-05-31 13:31:67.434+03"
+    },
+    {
+      "id": 21,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_21.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_21.jpg",
+      "name": "Nike flagman: NSW Screen#1",
+      "createdDate": "2018-05-31 13:15:51.434+03"
+    },
+    {
+      "id": 22,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_22.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_22.jpg",
+      "name": "Nike flagman: NSW Screen#1",
+      "createdDate": "2018-05-31 12:56:40.434+03"
+    },
+    {
+      "id": 23,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_23.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_23.jpg",
+      "name": "Nike flagman: NSW Screen#2",
+      "createdDate": "2018-05-31 12:07:47.434+03"
+    },
+    {
+      "id": 24,
+      "campaignId": 1,
+      "videoUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_24.mp4",
+      "videoPreviewUrl": "https://cdn.gc.digital/cool/da_demo_videos/da_24.jpg",
+      "name": "Nike flagman: NSW Screen#3",
+      "createdDate": "2018-05-31T11:50:38.434Z"
+    }
+]

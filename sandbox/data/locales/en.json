@@ -1,0 +1,17 @@
+{
+  "campaign.average_length": "Average Length",
+  "campaign.campaign": "Campaign",
+  "campaign.days_active": "Days Active",
+  "campaign.per_video": "Per video",
+  "campaign.price": "Price {{ currency }}",
+  "campaign.total": "Total",
+  "campaign.videos": "Videos",
+  "demo.text": "this function is not available in demo version",
+  "demo.title": "Sorry,",
+  "mobile_placeholder.text": "Sorry, the service is available on Desktop devices only. \n We are working on mobile version",
+  "sidebar.campaigns": "Campaigns",
+  "video_list.load_more": "Load more",
+  "video.action_text": "Input data",
+  "welcome.action_text": "Let's start",
+  "welcome.text": "Hello! \n Welcome to the campaign's dashboard demo. \n Here you can track statistics and check videos \n generated during a campaign"
+}
